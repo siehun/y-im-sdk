@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61f6eaf6-fe16-410c-b231-7e6029de7755" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/y-im-sdk-application/src/main/java/io/yue/im/sdk/application/consumer/BaseMessageResultConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y-im-sdk-application/src/main/java/io/yue/im/sdk/application/consumer/GroupMessageResultConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y-im-sdk-application/src/main/java/io/yue/im/sdk/application/consumer/PrivateMessageResultConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y-im-sdk-core/src/main/java/io/yue/im/sdk/IMAutoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y-im-sdk-core/src/main/java/io/yue/im/sdk/client/IMClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y-im-sdk-core/src/main/java/io/yue/im/sdk/client/impl/DefaultIMClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y-im-sdk-core/src/main/java/io/yue/im/sdk/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y-im-sdk-core/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y-im-sdk-domain/src/main/java/io/yue/im/sdk/domain/annotation/IMListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y-im-sdk-domain/src/main/java/io/yue/im/sdk/domain/listener/MessageListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y-im-sdk-infrastructure/src/main/java/io/yue/im/sdk/infrastruture/multicaster/MessageListenerMulticaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y-im-sdk-infrastructure/src/main/java/io/yue/im/sdk/infrastruture/multicaster/impl/DefaultMessageListenerMulticaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y-im-sdk-interfaces/src/main/java/io/yue/im/sdk/interfaces/sender/IMSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/y-im-sdk-interfaces/src/main/java/io/yue/im/sdk/interfaces/sender/impl/DefaultIMSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,25 +35,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.y-im-sdk [clean,install,deploy].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/fuck_learn/binghe/im/code/resources/bh-im-sdk-master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.y-im-sdk [clean,install,deploy].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/fuck_learn/binghe/im-jd/dev/y-im-server&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="y-im-sdk [clean,install,deploy]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
@@ -124,6 +107,8 @@
       <workItem from="1751769257333" duration="1182000" />
       <workItem from="1751780101993" duration="44000" />
       <workItem from="1751946796829" duration="4736000" />
+      <workItem from="1752277769733" duration="788000" />
+      <workItem from="1752279119792" duration="1705000" />
     </task>
     <servers />
   </component>
